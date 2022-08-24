@@ -7,7 +7,7 @@
 * Node js
 * Express js
 * Tailwind Css
-* Position stack api (GeoCode) - http://api.positionstack.com/v1/forward
+* [Position stack api (GeoCode)]( http://api.positionstack.com/v1/)
 
 ## Known Bugs
 

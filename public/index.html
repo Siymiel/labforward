@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://cdn.tailwindcss.com"></script>
+    <title>Party Plan (Weather checker)</title>
+</head>
+<body class="max-w-6xl mx-auto mt-10">
+    <div class="grid grid-cols-2 gap-6">
+        <form action="" id="weather_form">
+            <div class="mb-8">
+                <h2 class="text-3xl font-medium">Party Plan (Weather Checker)</h2>
+                <small>Enter details to view suggested dates</small>
+            </div>
+            <div>
+                <label for="startDate" class="font-medium text-sm mr-1">Start Date</label>
+                <input type="date" id="startDate" name="startDate" required class="px-5 py-2 rounded bg-gray-100 border border-gray-300 text-sm">
+            </div>
+            <div class="mt-4">
+                <label for="toDate" class="font-medium text-sm mr-1">End Date</label>
+                <input type="date" id="toDate" name="toDate" required class="px-5 py-2 rounded bg-gray-100 border border-gray-300 text-sm">
+            </div>
+            <div class="mt-4">
+                <label for="location" class="font-medium text-sm mr-1">Location</label>
+                <input type="text" id="location" name="location" placeholder="Location" required class="px-5 py-2 rounded bg-gray-100 border border-gray-300 text-sm">
+            </div>
+        
+            <div>
+                <button type="submit" class="px-5 py-2 bg-blue-400 text-white rounded-md mt-10">Submit</button>
+            </div>
+        </form>
+        <div class="weather grid space-y-3 mb-10">
+        </div>
+    </div>
+    <script src="main.js"></script>
+</body>
+</html>

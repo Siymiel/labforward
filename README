@@ -1,15 +1,15 @@
-# Labforward interview test
+#Labforward interview test
 
-#### By Samuel Kinuthia
+####By Samuel Kinuthia
 
-## Technologies Used
+##Technologies Used
 
 * Node js
 * Express js
 * Tailwind Css
 * Position stack api (GeoCode) - http://api.positionstack.com/v1/forward
 
-## Known Bugs
+##Known Bugs
 
 * I haven't utilized the .env file as much
 

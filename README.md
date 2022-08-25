@@ -42,12 +42,13 @@
             <br/>
             ### Delta Weight: {{Delta}}
             <br/>
-            ***### Target Weight: {{TargetWeight}}***
+            ### Target Weight: {{TargetWeight}}
           <br/>
           <br/>
           %col
             {{button|print}}
 ```
+### Target Weight: {{TargetWeight}}
 
 # Based o Question 3
 

@@ -4,10 +4,10 @@
 
 ## Technologies Used
 
-Node js
-Express js
-Tailwind Css
-[Position stack api (GeoCode)]( http://api.positionstack.com/v1/)
+- Node js
+- Express js
+- Tailwind Css
+- [Position stack api (GeoCode)]( http://api.positionstack.com/v1/)
 
 ## Added Sections
 

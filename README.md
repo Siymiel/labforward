@@ -50,7 +50,7 @@
 ```
 ### Target Weight: {{TargetWeight}}
 
-# Based o Question 3
+# Based on Question 3
 
 Value of "data_point.qty". The value is 9.69 { Reason: This is the digital twin of the stable weight }
 

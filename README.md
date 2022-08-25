@@ -8,6 +8,7 @@
 - Express js
 - Tailwind Css
 - [Position stack api (GeoCode)]( http://api.positionstack.com/v1/)
+*Please not that you have to create an account with  [Position stack]( http://api.positionstack.com/v1/) to get the API_KEY and substitute for geocoding of the location.*
 
 ## Added Sections
 
